@@ -13,7 +13,19 @@
 All the config details of the instances are stored in the config file (default location $HOME/.kcloudconfig. The config contains details like Project, Zone etc...)
 ```
 
-
 ## Todo
 - [x] Add to Github
 - [ ] Create a Todo List
+
+## usearch
+### A commandline script to search for users on github 
+```
+The parameters on which the search takes place is 
+1. Localtion
+2. Keyword
+3. language
+4. Stars
+
+Need to add more
+```
+
