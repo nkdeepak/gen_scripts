@@ -15,5 +15,5 @@ All the config details of the instances are stored in the config file (default l
 
 
 ## Todo
--[ ] Add to Github
--[ ] Create a Todo List
+- [ ] Add to Github
+- [ ] Create a Todo List
